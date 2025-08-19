@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "facetCloud admin"
+AuthUserFile "/var/www/html/admin/.htpasswd"
+require valid-user
